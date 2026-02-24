@@ -41,11 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     9 mins                ████████████████████████░   96.37 %
-Python       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
